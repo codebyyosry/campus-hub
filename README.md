@@ -160,3 +160,18 @@ php artisan test
 ## 📄 License
 
 This project is open-source software.
+
+---
+
+## 👤 About the Author
+
+**Yosry Badr** — Senior Android Developer & Solution Architect
+
+I'm a Computer Science graduate from Ain Shams University with 5+ years of experience building high-performance Android applications (Kotlin, Jetpack Compose, Clean Architecture) and full-stack/backend systems across fintech, healthcare, and enterprise platforms. Campus Hub is a Laravel-based exploration of full-stack web development alongside my primary mobile engineering work.
+
+* 🌐 **Portfolio:** [codebyyosry.github.io](https://codebyyosry.github.io/)
+* 💻 **GitHub:** [@codebyyosry](https://github.com/codebyyosry)
+* 💼 **LinkedIn:** [in/yosry-badr](https://www.linkedin.com/in/yosry-badr/)
+* 📧 **Email:** yosry.jobs@gmail.com
+
+Feel free to reach out for collaboration, feedback, or opportunities.
