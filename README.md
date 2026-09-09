@@ -25,6 +25,10 @@ A centralized enterprise platform engineered to streamline campus operational wo
 
 > All screenshots are stored in the `/screenshots` folder. Rename your image files to match the names below (or update the paths here to match your actual filenames).
 
+|                 Welcome Page                 |
+| :------------------------------------------: |
+| ![Profile Settings](screenshots/welcome.png) |
+
 |              Login              |                   Dashboard                   |
 | :-----------------------------: | :-------------------------------------------: |
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/admin-dashboard.png) |
