@@ -12,6 +12,7 @@
 [![Forks](https://img.shields.io/github/forks/codebyyosry/campus-hub?style=for-the-badge&color=blue)](https://github.com/codebyyosry/campus-hub/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/codebyyosry/campus-hub?style=for-the-badge&color=orange)](https://github.com/codebyyosry/campus-hub/commits/main)
 [![Issues](https://img.shields.io/github/issues/codebyyosry/campus-hub?style=for-the-badge&color=red)](https://github.com/codebyyosry/campus-hub/issues)
+[![Laravel CI](https://github.com/codebyyosry/campus-hub/actions/workflows/laravel.yml/badge.svg)](https://github.com/codebyyosry/campus-hub/actions/workflows/laravel.yml)
 
 A centralized enterprise platform engineered to streamline campus operational workflows, process support requests with interactive threaded comments, and manage resource bookings seamlessly. Built with **Laravel 11**, **Laravel Breeze**, and **Tailwind CSS**.
 
