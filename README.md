@@ -29,9 +29,9 @@ A centralized enterprise platform engineered to streamline campus operational wo
 | :-----------------------------: | :-------------------------------------------: |
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/admin-dashboard.png) |
 
-|                  Support Requests                  |                      Request Details                      |
-| :------------------------------------------------: | :-------------------------------------------------------: |
-| ![Support Requests](screenshots/requests-list.png) | ![Request Details](screenshots/admin-request-details.png) |
+|                    Support Requests                     |                   Request Details                   |
+| :-----------------------------------------------------: | :-------------------------------------------------: |
+| ![Support Requests](screenshots/admin-request-list.png) | ![Request Details](screenshots/request-details.png) |
 
 |                  Create Request                   |                  Resource Bookings                   |
 | :-----------------------------------------------: | :--------------------------------------------------: |
